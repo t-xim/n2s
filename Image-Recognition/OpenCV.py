@@ -1,4 +1,4 @@
----### cv2 package ###---
+###--- cv2 package ---###
 
 # Importing packages
 # cv2 is for image processing and computer vision, matplotlib is for displaying images
@@ -23,7 +23,7 @@ img_rgb = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 # Saving the image
 cv2.imwrite("file.name", img)
 
----### Plotting(displaying) the images ###---
+###--- Plotting(displaying) the images ---### 
 
 # Displaying the image
 plt.imshow(img)
@@ -102,3 +102,16 @@ plt.subplot(1, 4, 4)
 plt.title("Red channel")
 plt.imshow(img_red)
 
+# TODO other parts of cv2
+(ch1, ch2, ch3) = cv2.split(img)
+cv2.merge
+
+# Binarization
+
+# Edge detection
+
+
+
+# TODO
+# What is this line doing?
+zeros = np.zeros(img.shape[:2], dtype = "uint8")
