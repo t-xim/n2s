@@ -1,1 +1,9 @@
 jupyter notebook --notebook-dir=/Users/yourname/folder1/folder2/
+
+Markdown in Jupyter notebook use HTML(?)
+<br> for break
+
+What is?:
+md
+$S$: a set of shops
+$I$: a set of items M wants to get
