@@ -1,5 +1,5 @@
-
-
+import tensorflow as tf
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 # Train generator
 train_datagen = ImageDataGenerator(rescale=1./255)
