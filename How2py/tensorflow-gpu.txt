@@ -1,1 +1,5 @@
+Text guide:
 http://bailiwick.io/2017/11/05/tensorflow-gpu-windows-and-jupyter/
+
+Youtube guide:
+Youtube: watch?v=KZFn0dvPZUQ
