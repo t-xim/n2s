@@ -20,3 +20,6 @@ for col_index in range(max_hash_count - 1):
 
 print(len(X))
 X.head()
+
+
+## For more grouping related cleaning refer to Titanic or Housing projects
