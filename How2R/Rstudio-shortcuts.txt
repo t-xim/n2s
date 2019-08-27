@@ -1,0 +1,4 @@
+Ctrl+1, Ctrl+2 to switch between script and console
+
+Ctrl-Shift-5 to see file pane
+Ctrl-Alt-Shift-0 to go source/console view
